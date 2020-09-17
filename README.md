@@ -1,6 +1,6 @@
-#Trendyol Bootcamp Homework about Test Driven Development principles
+# Trendyol Bootcamp Homework about Test Driven Development principles
 
-# Word Count
+## Word Count
 
 Given a series of 'String' inputs, output the number of unique words seen.
 
@@ -10,7 +10,7 @@ Note:
 - capitalization may vary on otherwise identical words
 - punctuation of ',' and '.' should be ignored
 
-# Example
+## Example
 
 > This is a test.
 
