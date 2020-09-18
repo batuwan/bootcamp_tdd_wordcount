@@ -1,6 +1,6 @@
 # Trendyol Bootcamp Homework about Test Driven Development principles
 
-### not completed yet
+
 
 
 ## Word Count
