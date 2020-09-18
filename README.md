@@ -1,5 +1,8 @@
 # Trendyol Bootcamp Homework about Test Driven Development principles
 
+### not completed yet
+
+
 ## Word Count
 
 Given a series of 'String' inputs, output the number of unique words seen.
